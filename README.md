@@ -1,7 +1,7 @@
 # TaserPlugin
 A taser plugin made mainly for RP Servers, but can be used for whatever you want.
 
-**NOTE: This plugin contains an optional workshop mod. More info below.**
+**NOTE: This plugin contains an optional workshop mod. More info below. **
 
 # Config
 - Taser - Make any weapon the taser by inputing the weapons ID.
