@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaserPlugin", "TaserPlugin\TaserPlugin.csproj", "{91687C7C-8EE8-41CE-88A7-D89E7ECC4D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91687C7C-8EE8-41CE-88A7-D89E7ECC4D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91687C7C-8EE8-41CE-88A7-D89E7ECC4D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91687C7C-8EE8-41CE-88A7-D89E7ECC4D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91687C7C-8EE8-41CE-88A7-D89E7ECC4D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8211B4C0-C2A5-4F47-9273-403B2FE8B55D}
+	EndGlobalSection
+EndGlobal
