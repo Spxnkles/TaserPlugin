@@ -1,10 +1,17 @@
 # TaserPlugin
 A taser plugin made mainly for RP Servers, but can be used for whatever you want.
 
+**NOTE: This plugin contains an optional workshop mod. More info below.**
+
 # Config
 - Taser - Make any weapon the taser by inputing the weapons ID.
 - TaseDuration - Duration of how long someone should be tased for.
 - TasePerm - Required permission to use the taser.
+
+# Workshop
+This plugin has an optional workshop mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2845880346
+
+It's suggested to use our workshop since it's official and kept up to date. You can use any vanilla or workshop gun just change the ID in the config.
 
 # Permissions
 <table>
